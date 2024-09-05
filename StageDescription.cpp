@@ -8,7 +8,7 @@ int main()
 {
     std::cout << "Bonjour tout le monde\n";
     
-    Entreprise nom inconnu;
+    Entreprise nom inconnu ;
     
 }
 
