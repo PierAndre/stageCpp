@@ -2,10 +2,14 @@
 //
 
 #include <iostream>
+#include "Entreprise.h"
 
 int main()
 {
     std::cout << "Bonjour tout le monde\n";
+    
+    Entreprise nom inconnu;
+    
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
