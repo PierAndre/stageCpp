@@ -2,9 +2,9 @@
  * \file   Entreprise.cpp
  * \brief  Definition de la classe Entreprise
  * 
- * \author Pierre
+ * \author Pier-Andre
  * \version 0.1
- * \date   June 2023
+ * \date   september 2024
  * 
  * Programme Cpp permettant de creer des objets pour décrire les stages
  *********************************************************************/

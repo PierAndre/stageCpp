@@ -8,8 +8,9 @@ int main()
 {
     std::cout << "Bonjour tout le monde\n";
     
-    Entreprise nom inconnu ;
+    //std::cout << "L'entreprise s'appelle : "<< string getNomEntreprise() <<" \n";
     
+    printf("L'entreprise s'appelle %c ");
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
